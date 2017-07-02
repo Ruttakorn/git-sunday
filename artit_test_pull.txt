@@ -1,1 +1,1 @@
-pull resquest
+pull request
